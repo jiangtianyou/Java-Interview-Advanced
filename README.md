@@ -1,31 +1,3 @@
-# 中华石杉--互联网Java进阶面试训练营
-
-[![original](https://badgen.net/badge/original/%E4%B8%AD%E5%8D%8E%E7%9F%B3%E6%9D%89/orange)]
-[![open-source-organization](https://badgen.net/badge/organization/join%20us/138c7b)]
-[![reading](https://badgen.net/badge/books/read%20together/cyan)]
-[![coding](https://badgen.net/badge/leetcode/coding%20together/cyan)]
-[![sharing](https://badgen.net/badge/readers/share%20together/cyan)]
-[![stars](https://badgen.net/github/stars/doocs/wulimax/reactApp)]
-[![forks](https://badgen.net/github/forks/wulimax/reactApp)]
-[![contributors](https://badgen.net/github/contributors/wulimax/reactApp)]
-[![help-wanted](https://badgen.net/github/label-issues/wulimax/reactApp/help%20wanted/open)]
-[![issues](https://badgen.net/github/open-issues/wulimax/reactApp)]
-[![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
-
-
-
-### 内容说明：
-本仓库存放的是公众号【狸猫技术窝】和**中华石杉**老师合作的课程《**互联网Java进阶面试训练营**》的笔记，版权归狸猫技术窝所有，侵权将追究法律责任
-
-训练营详细信息请关注公众号【狸猫技术窝】了解
-### 公众号:狸猫技术窝
-
-更多技术干货，请扫描下方二维码，关注公众号狸猫技术窝
-
-![我的公众号](/images/limaojishuwo.jpeg)
-
-
-
 
 ## 目录
 
@@ -88,7 +60,7 @@
 - [二本出身、逆袭网易、一路孤独、一路狂欢！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484844&idx=1&sn=cfa78df2943567269909f87217fa25c8&chksm=fba6edafccd164b9f6c22162a6386734010aeee9a084de720dacbb72d58bd1c20c0f961f5315&mpshare=1&scene=1&srcid=0608Ufv5zYZu66XnNn89WYEU%23rd)
 - [小公司出身的我，是如何拿下知名独角兽公司offer的？](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484813&idx=1&sn=4c9a43e51e1cf114efcf938e60ad58fd&chksm=fba6ed8eccd16498840a715659b8a29cf3368d28cf67c6fb27255277abe63421bca9ceb2cae7&mpshare=1&scene=1&srcid=06083zOsdotiVg1juwK3MYxZ%23rd)
 - [【行走的Offer收割机】记一位朋友斩获BAT技术专家Offer的面试经历](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484170&idx=1&sn=6c178884c1c5399e37562b9dc66cff6c&chksm=fba6eb09ccd1621ff8821b37f12d6df8a1d269ddc95ad10c0a4e71a3bf0017952bf19978d8ec&mpshare=1&scene=1&srcid=0608ezj6dEIln43Sl011MZz3%23rd)    
-    
+  
 
 
 
